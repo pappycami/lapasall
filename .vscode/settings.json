@@ -1,0 +1,18 @@
+{
+    "terminal.integrated.profiles.windows": {
+        "LaravelDev": {
+            "overrideName": true,
+            "source": "PowerShell",
+            "color": "terminal.ansiMagenta",
+            "icon": "terminal-powershell",
+            "path": "C:\\_APP\\portable\\PowerShell\\pwsh.exe",
+            "args": [
+                "-NoExit",
+                "-Command",
+                ". 'C:\\_APP\\portable\\_app_profiles\\lapasall\\.vscode\\project-profile.ps1'"
+            ]
+        }
+    },
+    "terminal.integrated.defaultProfile.windows": "LaravelDev",
+    "extensions.ignoreRecommendations": false
+}

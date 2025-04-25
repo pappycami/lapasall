@@ -1,0 +1,8 @@
+{
+    "recommendations": [
+        "ms-vscode.powershell",
+        "ryannaddy.laravel-artisan",
+        "onecentlin.laravel-blade",
+        "bmewburn.vscode-intelephense-client"
+    ]
+}
